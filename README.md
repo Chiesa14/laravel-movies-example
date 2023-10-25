@@ -1,11 +1,3 @@
-![screenshot](https://user-images.githubusercontent.com/4316355/78681326-98bd1480-78ba-11ea-9cd8-3052397a87a7.png)
-
-# Laravel Movies Example
-
-Code for YouTube video series: https://www.youtube.com/playlist?list=PLEhEHUEU3x5pYTjZze3fhYMB4Nl_WOHI4
-
-Demo URL: https://movies.andredemos.ca
-
 ## Installation
 
 1. Clone the repo and `cd` into it
@@ -22,4 +14,3 @@ If you would like to follow along and start from a particular point, follow thes
 
 1. Clone the repo and `cd` into it
 1. `git checkout 22fa456`
-
